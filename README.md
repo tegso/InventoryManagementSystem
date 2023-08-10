@@ -1,2 +1,2 @@
 # StoreManagementSystem
-It desktop application which is done using java and jdbc
+It web application that is done using Python and django
